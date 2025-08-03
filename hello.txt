@@ -1,2 +1,2 @@
 Hello World!
-My own changes completely, oblivious that someone else is working on this line too somewhere, too bad, this is the main and my changes are 1st to be realized 
+The line added, is it okay if its non the same line that I am editing? Something else.
